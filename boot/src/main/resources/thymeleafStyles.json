@@ -1,0 +1,4 @@
+[
+    {"ids":["orderList", "product"], "display":"@authComponent.auth(authentication, request, #id)"}
+
+]
